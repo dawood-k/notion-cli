@@ -11,7 +11,7 @@ Running Notion's MCP server costs ~23k tokens in context just to be *available* 
 ## Install
 
 ```bash
-git clone https://github.com/dawoodkhan92/notion-cli.git
+git clone https://github.com/dawood-k/notion-cli.git
 cd notion-cli
 pip install -e .
 ```
